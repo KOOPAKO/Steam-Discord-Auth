@@ -14,4 +14,4 @@ Originally made to allow myself and some friends to easily share a steam account
 1. Ensure all requirements are met
 2. Add [Discord bot token](https://discord.com/developers/applications) to token.json
 3. Generate token.json file with [these steps](https://pastebin.com/rFHRrT88). More info on this [here](https://steam.readthedocs.io/en/stable/api/steam.guard.html).
-4. Run main.py
+4. Run discordbot.py
